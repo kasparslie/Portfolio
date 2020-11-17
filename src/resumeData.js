@@ -1,62 +1,56 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Hamdada Yacine",
-    "role": "React and Node trainer at the Wild Code School",
+    "name": "Kaspars Liepins",
+    "role": "React and Node student at the Wild Code School Amsterdam",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like to learn about new technologies, to share my knowledge and surfing in my free time",
-    "blockchain" :"Blockchain enthusiaste",
+    "roleDescription": "I like to learn about new technologies and experience new things, to share my passions and knowledge, in my free time I enjoy nature and photography, picture you are currently seeing is snapped by me in Onderdijk",
+    "blockchain" :"",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/kaspars-liepins-a34a33aa",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/kasparslie/",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/kasparsliep",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am Latvian origins individual, with a background in automotive repairs and diganostics, looking for change in scenary. I am currently attending full time Web development course at Wild Code School Amsterdam, learning new technologies, such as JavaScript, Html, CSS, SCSS, React and Scrum methodology. After graduation I would like to work in IT indusrty.",
+    "address":"Volendam, North Holland",
+    "website":"https://none.lv",
+      "email": "kasparslie@gmail.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "CollegeName":"Wild Code School",
+        "specialization":"Web Development",
+        "MonthOfPassing":"Feb",
+        "YearOfPassing":"2021",
+        "Achievements":"Diploma(expected)"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
+        "CollegeName":"Pembrokeshire College",
+        "specialization":"Automotive Diagnostics and Rectification",
+        "MonthOfPassing":"July",
         "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"City and Guild Level 3(MBO 3)"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"DekkerAutogroep(Ford) BV",
+        "specialization":"Vehicle Technician",
+        "MonthOfLeaving":"still employed",
+        "YearOfLeaving":"still employed",
+        "Achievements":""
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
