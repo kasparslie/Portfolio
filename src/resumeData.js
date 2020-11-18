@@ -1,3 +1,7 @@
+import bonapp from './images/bonapp.png'
+import memory from './images/memory.png'
+import question from './images/question.jpg'
+
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Kaspars Liepins",
@@ -45,7 +49,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"DekkerAutogroep(Ford) BV",
+        "CompanyName":"Dekker Autogroep(Ford) BV",
         "specialization":"Vehicle Technician",
         "MonthOfLeaving":"still employed",
         "YearOfLeaving":"still employed",
@@ -66,24 +70,24 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Memory Game",
+        "description":"JavaScript and HTML project",
+        "imgurl":memory
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Bon-app-etit",
+        "description":"React project with external api call",
+        "imgurl":bonapp
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":question
       },
       {
         "name":"project4",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":question
       }
     ],
     "testimonials":[
