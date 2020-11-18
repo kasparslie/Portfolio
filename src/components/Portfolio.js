@@ -20,7 +20,7 @@ export default class Porfolio extends Component {
                     <a href="#modal-01">
                       <img src={item.imgurl} alt={item.name} className="item-img"/>
                       <div className="overlay">
-                        <div className="portfolio-item-meta">
+                        <div className="portfolio-item-meta" onClick={()=> window.open(`${item.link}`)}>
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
                         </div>

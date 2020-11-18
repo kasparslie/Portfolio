@@ -29,7 +29,7 @@ let resumeData = {
       ],
     "aboutme":"I am Latvian origins individual, with a background in automotive repairs and diganostics, looking for change in scenary. I am currently attending full time Web development course at Wild Code School Amsterdam, learning new technologies, such as JavaScript, Html, CSS, SCSS, React and Scrum methodology. After graduation I would like to work in IT indusrty.",
     "address":"Volendam, North Holland",
-    "website":"https://none.lv",
+    "website":"https://kasparslie.netlify.app/",
       "email": "kasparslie@gmail.com",
     "education":[
       {
@@ -72,12 +72,14 @@ let resumeData = {
       {
         "name":"Memory Game",
         "description":"JavaScript and HTML project",
-        "imgurl":memory
+        "imgurl":memory,
+        "link": "https://memory-game-kasp.netlify.app/"
       },
       {
         "name":"Bon-app-etit",
         "description":"React project with external api call",
-        "imgurl":bonapp
+        "imgurl":bonapp,
+        "link": "https://bon-app-etit-kasp.netlify.app/"
       },
       {
         "name":"project3",
