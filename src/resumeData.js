@@ -66,6 +66,9 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"MySql"
       }
     ],
     "portfolio":[

@@ -21,7 +21,7 @@ export default  class Resume extends Component {
                           <p className="info">
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.MonthOfPassing} {item.YearOfPassing}</em></p>
-                          <p>
+                          <p style={{color : 'grey'}}>
                           {item.Achievements}
                           </p>
                        </div>
@@ -31,7 +31,7 @@ export default  class Resume extends Component {
               }
             </div>
          </div>
-        <div className="row work">
+        <div className="row work" >
             <div className="three columns header-col">
                <h1><span>Work</span></h1>
             </div>
@@ -45,8 +45,8 @@ export default  class Resume extends Component {
                           <h3>{item.CompanyName}</h3>
                           <p className="info">
                           {item.specialization}
-                          <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
-                          <p>
+                          <span>&bull;</span> <em style={{color : 'grey'}} className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
+                          <p style={{color : 'grey'}}>
                           {item.Achievements}
                           </p>
                        </div>
@@ -62,7 +62,7 @@ export default  class Resume extends Component {
 
          <div className="row skill">
 
-            <div className="three columns header-col">
+            <div className="three columns header-col" style={{color : 'grey'}}>
                <h1><span>Skills</span></h1>
             </div>
 
