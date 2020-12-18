@@ -353,7 +353,7 @@ ul#nav li.current a { color: #c19ee0; }
   	-webkit-animation: html5 2s ease;
 }
 .mysql {
-  	width: 50%;
+  	width: 90%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
@@ -368,7 +368,7 @@ ul#nav li.current a { color: #c19ee0; }
    -webkit-animation: jquery 2s ease;
 }
 .sequelizejs {
-   width: 80%;
+   width: 30%;
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }
