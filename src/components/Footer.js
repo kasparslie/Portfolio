@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 export default class Footer extends Component {
   render() {
     let resumeData = this.props.resumeData;
-    console.log(resumeData)
+
     return (
       <footer>
       <div className="row">
@@ -13,9 +13,9 @@ export default class Footer extends Component {
                 return(
                   <li>
                     <a href={item.url}>
-                    <i className={item.className} />
+                    <i className={item.className}/>
                     </a>
-                  </li>
+                  </li> 
                 )
               })
             }

@@ -6,7 +6,7 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Kaspars Liepins",
     "role": "React and Node student at the Wild Code School Amsterdam",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId":"www.linkedin.com/in/kasparslie",
     "skypeid": "Your skypeid",
     "roleDescription": "I like to learn about new technologies and experience new things, to share my passions and knowledge, in my free time I enjoy nature and photography, picture you are currently seeing is snapped by me in Onderdijk",
     "blockchain" :"",
@@ -54,9 +54,9 @@ let resumeData = {
         "MonthOfLeaving":"still employed",
         "YearOfLeaving":"still employed",
         "Achievements":""
-      },
+      }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -65,10 +65,16 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
+        "skillname":"nodejs"
+      },
+      {
         "skillname":"Reactjs"
       },
       {
-        "skillname":"MySql"
+        "skillname":"mysql"
+      },
+      {
+        "skillname":"sequelizejs"
       }
     ],
     "portfolio":[

@@ -5,7 +5,6 @@ import '../images/question.png'
 export default class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
-    console.log(resumeData.portfolio.map(item => item.imgurl))
     return (
       <section id="portfolio">
       <div className="row">

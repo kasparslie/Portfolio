@@ -8,7 +8,7 @@ export default class About extends Component {
 
             <div className="three columns">
 
-               <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
+            <img style={{borderRadius: "200px", width:"120px", height:"150px"}} src="https://i.ibb.co/jvZxRY0/kas-resized.gif" alt="kas-resized" border="0" />
 
             </div>
 

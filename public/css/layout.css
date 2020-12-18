@@ -352,12 +352,22 @@ ul#nav li.current a { color: #c19ee0; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
+.mysql {
   	width: 50%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 .reactjs {
+   width: 80%;
+   -moz-animation: jquery 2s ease;
+   -webkit-animation: jquery 2s ease;
+}
+.nodejs {
+   width: 80%;
+   -moz-animation: jquery 2s ease;
+   -webkit-animation: jquery 2s ease;
+}
+.sequelizejs {
    width: 80%;
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
