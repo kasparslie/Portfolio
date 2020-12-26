@@ -27,7 +27,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am Latvian origins individual, with a background in automotive repairs and diganostics, looking for change in scenary. I am currently attending full time Web development course at Wild Code School Amsterdam, learning new technologies, such as JavaScript, Html, CSS, SCSS, React and Scrum methodology. After graduation I would like to work in IT indusrty.",
+    "aboutme":"I am Latvian origins individual, with a background in automotive, looking for change in scenary. I am currently attending full time Web development course at Wild Code School Amsterdam, learning new technologies, such as JavaScript, Html, CSS, SCSS, React, Mysql, Sequelize.Js and Scrum methodology. After graduation I would like to work in IT indusrty, ideally in e-commerce.",
     "address":"Volendam, North Holland",
     "website":"https://kasparslie.netlify.app/",
       "email": "kasparslie@gmail.com",
